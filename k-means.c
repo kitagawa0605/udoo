@@ -8,6 +8,7 @@ return length;
 （x or y座標,クラスタ番号を保存した配列,求めたい重心のクラスタ番号）*/
 double center(double a[],int b[],int r){
 int i;
+int j;
 int count =0;
 double c  =0;
 double cen;
