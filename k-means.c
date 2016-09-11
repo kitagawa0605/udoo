@@ -9,6 +9,7 @@ return length;
 double center(double a[],int b[],int r){
 int i;
 int j;
+int k;
 int count =0;
 double c  =0;
 double cen;
